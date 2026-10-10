@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+venv/
+*.egg-info/
+.env
+data/
+logs/
+*.pyc
+*.log
+*.vtt.coverage
+.coverage
